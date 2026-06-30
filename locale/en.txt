@@ -3,8 +3,8 @@
 ## Action
 
 ### URL
-LinkBehaviour_A2C8BE18_B236_2F01_41DE_3A18BB3A8419.source = http://127.0.0.1:5500/index.html
-LinkBehaviour_A5258611_B2D6_7F02_41E0_83A9809DC6C8.source = http://127.0.0.1:5500/index.html
+LinkBehaviour_A2C8BE18_B236_2F01_41DE_3A18BB3A8419.source = https://tourguide-yoga.vercel.app/
+LinkBehaviour_A5258611_B2D6_7F02_41E0_83A9809DC6C8.source = https://tourguide-yoga.vercel.app/
 
 ## Media
 
